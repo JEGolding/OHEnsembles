@@ -5,7 +5,7 @@ Classifiers are trained on each cluster found in the dataset to determine member
 
 # Table of Contents  
 Check_Results.ipynb  
-    * A notebook for investigating the results of the experiments.  
+  * A notebook for investigating the results of the experiments.  
 
 Ensemble_Concept_Drift.py  
   * Script for running experiments. For each dataset and each label in the dataset the following files are made:  
